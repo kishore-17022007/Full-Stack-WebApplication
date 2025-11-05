@@ -1,18 +1,18 @@
-🥬 Find Farm Fresh – Full Stack Web Application
+#🥬 Find Farm Fresh – Full Stack Web Application
 
 Find Farm Fresh is a full-stack web application designed to connect consumers directly with local farmers and organic produce sellers.
 The platform helps users discover nearby farm-fresh products, view details, and make purchases through an intuitive, responsive interface.
 
 ---
 
-🌾 Overview
+#🌾 Overview
 
 With the rising demand for organic and chemical-free food, Find Farm Fresh bridges the gap between farmers and customers.
 It provides a real-time, database-driven platform that displays available farm produce and enables sellers to manage their listings easily.
 
 ---
 
-🚀 Features
+3🚀 Features
 
 - 🧑‍🌾 Farmer Dashboard: Add, edit, and manage produce listings.
 - 🛒 Customer Interface: Browse, search, and filter fresh products.
@@ -25,7 +25,7 @@ It provides a real-time, database-driven platform that displays available farm p
 
 ---
 
-🛠 Tech Stack
+3🛠 Tech Stack
 
 Frontend:
 
@@ -42,7 +42,7 @@ Database:
 
 ---
 
-⚙ Installation & Setup
+3⚙ Installation & Setup
 
 ⿡ Clone the repository
 
@@ -86,7 +86,7 @@ The backend API will run at http://localhost:5000
 
 ---
 
-🧩 Folder Structure
+3🧩 Folder Structure
 
 Find-FarmFresh/
 │
@@ -109,7 +109,7 @@ Find-FarmFresh/
 
 ---
 
-💡 Future Enhancements
+##💡 Future Enhancements
 
 - 🧾 Integration of payment gateway (Stripe/PayPal)
 - 🌍 Add Google Maps API for farm locations
@@ -118,7 +118,7 @@ Find-FarmFresh/
 
 ---
 
-👨‍💻 Author
+##👨‍💻 Author
 
 KISHORE S
 Dept.CSE| AI & ML
