@@ -1,53 +1,51 @@
-#🥬 Find Farm Fresh – Full Stack Web Application
+# 🥬 Find Farm Fresh – Full Stack Web Application
 
-Find Farm Fresh is a full-stack web application designed to connect consumers directly with local farmers and organic produce sellers.
+**Find Farm Fresh** is a full-stack web application designed to connect consumers directly with local farmers and organic produce sellers.  
 The platform helps users discover nearby farm-fresh products, view details, and make purchases through an intuitive, responsive interface.
 
 ---
 
-#🌾 Overview
+## 🌾 Overview
 
-With the rising demand for organic and chemical-free food, Find Farm Fresh bridges the gap between farmers and customers.
+With the rising demand for organic and chemical-free food, **Find Farm Fresh** bridges the gap between farmers and customers.  
 It provides a real-time, database-driven platform that displays available farm produce and enables sellers to manage their listings easily.
 
 ---
 
-3🚀 Features
+## 🚀 Features
 
-- 🧑‍🌾 Farmer Dashboard: Add, edit, and manage produce listings.
-- 🛒 Customer Interface: Browse, search, and filter fresh products.
-- 🗺 Location-Based Search: Find farms and sellers near you.
-- 💬 Interactive UI: Modern, clean, and responsive design.
-- 🔐 User Authentication: Secure login/signup for both farmers and customers.
-- 🧾 Product Details Page: Dynamic product descriptions, prices, and images.
-- 📦 Cart Management: Add to cart and manage orders (demo feature).
-- 🗃 MongoDB Integration: Real-time storage and retrieval of products and user data.
-
----
-
-3🛠 Tech Stack
-
-Frontend:
-
-- HTML5, CSS3, JavaScript (ES6)
-- React.js (Vite) – for building dynamic UI
-
-Backend:
-
-- Node.js and Express.js – for server-side logic and REST API creation
-
-Database:
-
-- MongoDB (with Mongoose) – for storing users, products, and order details
+- 🧑‍🌾 **Farmer Dashboard:** Add, edit, and manage produce listings.  
+- 🛒 **Customer Interface:** Browse, search, and filter fresh products.  
+- 🗺 **Location-Based Search:** Find farms and sellers near you.  
+- 💬 **Interactive UI:** Modern, clean, and responsive design.  
+- 🔐 **User Authentication:** Secure login/signup for both farmers and customers.  
+- 🧾 **Product Details Page:** Dynamic product descriptions, prices, and images.  
+- 📦 **Cart Management:** Add to cart and manage orders (demo feature).  
+- 🗃 **MongoDB Integration:** Real-time storage and retrieval of products and user data.  
 
 ---
 
-3⚙ Installation & Setup
+## 🛠 Tech Stack
 
-⿡ Clone the repository
+### **Frontend**
+- HTML5, CSS3, JavaScript (ES6)  
+- React.js (Vite) – for building dynamic UI  
 
+### **Backend**
+- Node.js and Express.js – for server-side logic and REST API creation  
+
+### **Database**
+- MongoDB (with Mongoose) – for storing users, products, and order details  
+
+---
+
+## ⚙ Installation & Setup
+
+### ⿡ Clone the repository
+```bash
 git clone https://github.com/kishore-17022007/Full-Stack-WebApplication.git
 cd Full-Stack-WebApplication
+
 
 ⿢ Install dependencies
 
