@@ -38,53 +38,7 @@ It provides a real-time, database-driven platform that displays available farm p
 - MongoDB (with Mongoose) – for storing users, products, and order details  
 
 ---
-
-## ⚙ Installation & Setup
-
-### ⿡ Clone the repository
-```bash
-git clone https://github.com/kishore-17022007/Full-Stack-WebApplication.git
-cd Full-Stack-WebApplication
-
-
-⿢ Install dependencies
-
-Backend
-
-cd server
-npm install
-
-Frontend
-
-cd ../client
-npm install
-
-⿣ Configure environment variables
-
-Create a ".env" file in the "server" folder and add:
-
-MONGO_URI = your_mongodb_connection_string
-PORT = 5000
-JWT_SECRET = your_secret_key
-
-⿤ Run the app
-
-Start the backend server:
-
-cd server
-npm start
-
-Start the frontend (client):
-
-cd ../client
-npm run dev
-
-The frontend will run at http://localhost:5173
-The backend API will run at http://localhost:5000
-
----
-
-3🧩 Folder Structure
+## 🧩 Folder Structure
 
 Find-FarmFresh/
 │
@@ -106,22 +60,22 @@ Find-FarmFresh/
 └── README.md
 
 ---
+## 💡 Future Enhancements
 
-##💡 Future Enhancements
-
-- 🧾 Integration of payment gateway (Stripe/PayPal)
-- 🌍 Add Google Maps API for farm locations
-- 🧠 Use AI-based recommendation system for best farm choices
-- 📱 Launch mobile app version (React Native)
-
----
-
-##👨‍💻 Author
-
-KISHORE S
-Dept.CSE| AI & ML
-🌐 GitHub: "github.com/kishore-17022007" (https://github.com/kishore-17022007)
+- 🧾 Integration of payment gateway (Stripe/PayPal)  
+- 🌍 Add Google Maps API for farm locations  
+- 🧠 Use AI-based recommendation system for best farm choices  
+- 📱 Launch mobile app version (React Native)  
 
 ---
 
-⭐ If you like this project, please give it a star on GitHub!
+## 👨‍💻 Author
+
+**KISHORE S**  
+**Dept. of CSE | AI & ML**  
+🌐 **GitHub:** [github.com/kishore-17022007](https://github.com/kishore-17022007)  
+
+---
+
+⭐ **If you like this project, please give it a star on GitHub!**
+
